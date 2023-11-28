@@ -35,11 +35,11 @@
 
 /* navbar size */
 #urlbar-input {
-  height: 15px !important;
+  height: 18px !important;
 }
 
 #urlbar{
-  min-height: 23px !important;
+  min-height: 25px !important;
 }
 
 .toolbarbutton-badge {
@@ -50,8 +50,8 @@
 }
 
 .urlbar-page-action{
-  padding-top: 0px !important;
-  padding-bottom: 0px !important;
+  padding-top: 2px !important;
+  padding-bottom: 2px !important;
 }
 
 .notification-anchor-icon{
