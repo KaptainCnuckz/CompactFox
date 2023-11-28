@@ -1,10 +1,6 @@
 # CompactFox
 
-![Showcase img](https://raw.githubusercontent.com/Tnings/CompactFox/main/Images/CompactFox%20Dark.png)
-![Showcase img](https://raw.githubusercontent.com/Tnings/CompactFox/main/Images/CompactFox%20Light.png)
+![Showcase img]((https://raw.githubusercontent.com/KaptainCnuckz/CompactFox/main/Images/compact%20fox%20update%20preview%20DARK.png))
+![Showcase img](https://raw.githubusercontent.com/KaptainCnuckz/CompactFox/main/Images/compact%20fox%20update%20preview%20LIGHT.png)
 
-A simple theme that compacts a lot of the UI elements, with an option in the userChrome to hide elements you can control with keybinds. I hope you enjoy it!
-
-—May
-
-
+Small update to Compact Fox for minor tweaks I've made for my own personal use. Posted publically for the sake of not losing the edits. Enjoy.
