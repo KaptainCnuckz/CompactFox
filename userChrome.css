@@ -33,23 +33,6 @@
     width: 14px !important;
 }
 
-.tab-background:-moz-lwtheme-brighttext{
-  background-color: rgba( 66, 65, 76, 0.4) !important;
-}
-
-.tabbrowser-tab:-moz-lwtheme-brighttext:hover > .tab-stack > .tab-background{
-  background-color: rgba( 66, 65, 76, 0.7) !important;
-}
-
-.tab-background{
-  background-color: rgba( 255, 255, 255, 0.9) !important;
-}
-
-.tabbrowser-tab:hover > .tab-stack > .tab-background{
-  background-color: rgba( 255, 255, 255, 0.4) !important;
-}
-
-
 /* navbar size */
 #urlbar-input {
   height: 15px !important;
@@ -82,3 +65,7 @@
   padding-top: 1px !important;
   padding-bottom: 1px !important;
 }
+
+/* Disables the bookmarks star button since it's misaligned. I use the context menu's star, so I CBA with properly fixing it. */
+/* You can disable the misaligned reader view button in about:config by changing "reader.parse-on-load.enabled" to "false" btw. */
+#star-button-box { display:none !important; }
